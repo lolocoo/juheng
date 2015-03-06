@@ -421,3 +421,14 @@ footer {
 .job-mod-content dl dt {
   font-weight: normal;
 }
+
+.flex-control-paging li a {
+  background: #fff;
+  box-shadow: none;
+}
+.flex-control-paging li a:hover { 
+  background: rgba(0,85,179, 1); 
+}
+.flex-control-paging li a.flex-active {
+  background: rgba(0,85,179, 1); 
+}
