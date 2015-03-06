@@ -2,6 +2,9 @@ body {
   font-family: Microsoft YaHei, STXiHei, Arial;
   background: #111;
 }
+a {
+  outline: none;
+}
 .flexslider {
   margin-bottom: 0px;
   border: none;
